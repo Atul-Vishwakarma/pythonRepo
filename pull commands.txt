@@ -1,0 +1,35 @@
+git init
+
+touch test1.txt
+
+git status
+
+git add file name
+
+git commit -m "enter your messaage"
+
+git config --list
+
+git push origin head
+
+git remote add origin (repo url)
+
+git push origin head
+
+git branch
+
+git pull origin master
+
+git checkout main
+
+git pull origin main
+
+git branch buttonadd
+
+git checkout buttonadd
+
+git checkout master
+
+git merge buttonadd
+
+git push origin head
